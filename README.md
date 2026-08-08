@@ -148,7 +148,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/thenileshnishad/daybook.git
+   git clone https://github.com/Advika2202/daybook.git
 
    cd daybook/backend
    ```
@@ -167,7 +167,7 @@ Follow these steps to set up the project locally:
    PORT=3000
    MONGO_URI=mongodb://localhost:27017/daybook
    JWT_SECRET=rushB@5678
-   FRONTEND_URL=http://localhost:5173
+   FRONTEND_URL=http://localhost:5174
    ```
 
 4. **Start the backend server:**
@@ -208,7 +208,7 @@ Follow these steps to set up the project locally:
 
 The app should now be running locally. `By default`:
 
-- The frontend runs on [http://localhost:5173](http://localhost:5173)
+- The frontend runs on [http://localhost:5174](http://localhost:5174)
 - The backend runs on [http://localhost:3000](http://localhost:3000)
 
 ---
