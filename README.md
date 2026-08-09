@@ -2,9 +2,7 @@
 
 DayBook is a secure and user-friendly personal journaling app built with the MERN stack (MongoDB, Express, React, and Node.js). It allows users to easily log in, write, view, and manage their daily entries while ensuring a seamless, distraction-free, and private experience. Prioritizing simplicity, security, and privacy, DayBook helps you document your thoughts and memories with confidence and peace of mind.
 
-[Live Demo](https://daybook-mern.vercel.app)
-
-Head over to the [Vercel deployment branch](https://github.com/thenileshnishad/daybook/tree/deployment) if you want to see how the deployment is set up (you can find the relevant details in their `package.json` file).
+[Live Demo](https://daybook-coral.vercel.app)
 
 ---
 
